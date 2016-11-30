@@ -1,0 +1,10 @@
+Algorithm,Parcel Priority,Parcel Order,Truck Order,Unused Trucks,Unused Space,Avg dist,Avg fullness,Unsched Parcels
+random,NA,NA,NA,0,26,334.75,93.7345467032967,2
+greedy,volume,non-decreasing,non-decreasing,0,48,388.5,88.92884836937256,2
+greedy,volume,non-decreasing,non-increasing,0,48,230.75,87.68084234314074,2
+greedy,volume,non-increasing,non-decreasing,0,6,201.0,98.36021505376345,2
+greedy,volume,non-increasing,non-increasing,0,6,248.0,98.3702403107645,2
+greedy,destination,non-decreasing,non-decreasing,0,23,226.75,93.931396224743,2
+greedy,destination,non-decreasing,non-increasing,0,40,168.5,88.07681230060263,2
+greedy,destination,non-increasing,non-decreasing,0,20,205.25,95.21749084249085,2
+greedy,destination,non-increasing,non-increasing,0,20,147.25,95.05093864468864,2
